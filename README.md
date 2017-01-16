@@ -1,5 +1,5 @@
 
-# Swift is like Kotlin
+# Java is like Kotlin
 
 Page: http://nilhcem.github.io/swift-is-like-kotlin/
 

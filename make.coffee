@@ -11,7 +11,7 @@ cirru = (data) ->
   mission.cirruHtml
     file: 'index.cirru'
     from: 'cirru/'
-    to: './'
+    to: '../java-is-like-kotlin-gh-pages/'
     extname: '.html'
     data: data
 
