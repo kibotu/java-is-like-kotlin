@@ -1,9 +1,9 @@
 
 # Java is like Kotlin
 
-Page: http://nilhcem.github.io/swift-is-like-kotlin/
+Page: https://github.com/kibotu/java-is-like-kotlin
 
-Programmatically inspired from [swift-is-like-go](https://github.com/jiyinyiyong/swift-is-like-go) and visually inspired from [swiftislikescala](https://github.com/leverich/swiftislikescala)
+Inspired by [swift-is-like-kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
 
 ### License
 
