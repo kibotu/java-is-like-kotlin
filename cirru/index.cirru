@@ -2,7 +2,7 @@ doctype
 
 html
   head
-    title "Swift is like Kotlin"
+    title "Java is like Kotlin"
     meta (:charset utf-8)
     link (:rel stylesheet) (:href css/style.css)
     link (:rel stylesheet) (:href css/highlightjs-github.css)
@@ -11,10 +11,10 @@ html
 
   body
     a (:target _blank)
-      :href https://github.com/Nilhcem/swift-is-like-kotlin
-      img#fork-me (:src http://nilhcem.github.io/swift-is-like-kotlin/fork-me.png)
+      :href https://github.com/kibotu/java-is-like-kotlin
+      img#fork-me (:src http://kibotu.github.io/java-is-like-kotlin/fork-me.png)
     #note
-      = "Swift is like Kotlin"
+      = "Java is like Kotlin"
 
     .section
       .title BASICS
