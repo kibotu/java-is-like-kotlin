@@ -1,3 +1,4 @@
+
 body {
     font-family: "Helvetica Neue", sans-serif;
     margin: 0;
@@ -8,8 +9,8 @@ body * {
 }
 
 .section {
-    background-color: #f4f4f4;
-    padding: 4em 3em;
+    background-color: #eee;
+    padding: 80px;
 }
 
 .section:nth-child(2n) {
@@ -17,19 +18,19 @@ body * {
 }
 
 .title {
-    font-size: 2.7em;
+    font-size: 48px;
     color: #888;
     font-weight: 100;
-    letter-spacing: 0.2em;
+    letter-spacing: 6px;
     text-align: center;
 }
 
 .case {}
 
 .name {
-    font-size: 1.8em;
+    font-size: 32px;
     color: #444;
-    font-weight: 300;
+    font-weight: 200;
     text-align: center;
     margin: 60px;
 }
@@ -53,22 +54,22 @@ body * {
 }
 
 .lang {
-    font-size: 1.3em;
+    font-size: 22px;
     color: #666;
-    padding-bottom: 0;
-    font-weight: 200;
-    letter-spacing: 0.07em;
+    font-weight: 100;
+    letter-spacing: 2px;
 }
 
+
 .code {
-    font-size: 1.15em;
     background-color: white;
-    margin: 0.4em 0 0 0;
-    padding: 0.4em;
-    line-height: 1.3em;
+    color: #444;
+    font-family: Menlo, monospace;
+    padding: 0.5em;
+    overflow-x: auto;
 }
 .section:nth-child(2n) .code {
-    background-color: #f4f4f4;
+    background-color: #eee;
 }
 
 #fork-me {
@@ -77,11 +78,15 @@ body * {
 }
 
 #note {
-    font-size: 1.5em;
-    color: #fff;
+    font-size: 24px;
+    color: #A7A7A7;
     text-align: center;
-    padding: 0.6em;
-    background: #414141;
-    font-weight: 300;
-    letter-spacing: 0.05em;
+    padding: 20px;
+    background-color: rgb(221, 221, 221);
+    font-weight: 100;
+    line-height: 2em;
+}
+
+.hljs {
+    background-color: transparent;
 }

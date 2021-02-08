@@ -8,8 +8,8 @@ Inspired by [swift-is-like-kotlin](http://nilhcem.github.io/swift-is-like-kotlin
 ### How to build
 
 ```bash
-npm i # install dependencies to build tools
-./make.coffee dev # build html
+yarn
+yarn build
 ```
 
 HTML is generated from `cirru/index.cirru`.
@@ -17,7 +17,7 @@ Read that file and you would know what's happening.
 
 ### License
 <pre>
-Copyright 2016 Jan Rabe
+Copyright 2021 Jan Rabe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
